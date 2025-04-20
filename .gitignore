@@ -1,0 +1,14 @@
+.env
+node_modules
+dist
+coverage
+.vscode
+*.log
+*.tsbuildinfo
+*.tgz
+*.zip
+*.tar
+*.tar.gz
+
+
+# Ignore all files in the root directory
